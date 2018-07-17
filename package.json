@@ -1,0 +1,23 @@
+ {
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "name": "studentmanager_19",
+  "description": "管理系统",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangjie6015/StudentManager_19.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangjie6015/StudentManager_19/issues"
+  },
+  "homepage": "https://github.com/wangjie6015/StudentManager_19#readme"
+}
